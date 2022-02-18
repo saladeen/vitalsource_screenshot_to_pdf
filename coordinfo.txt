@@ -1,0 +1,8 @@
+633, 120
+1269, 956
+1882, 1009
+65
+# First line = top left
+# Second line = bottom right
+# Third line = location of next button
+# Fourth line = total number of pages
